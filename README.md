@@ -9,6 +9,6 @@ cmds working
 
 `cd pytroid-dl`
 
-`pip3 install requirements.txt`
+`pip3 install -r requirements.txt`
 
 `bash dl.py`
