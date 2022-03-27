@@ -1,7 +1,9 @@
 import youtube_dl
 import os
+from sample_config import Config
+
 
 video = {}
-url = "https://www.youtube.com/watch?v=Wch3gJG2GJ4"
+url = Config.dl_link,
 with youtube_dl.YoutubeDL(video) as ydl:
  ydl.download([url])
