@@ -12,3 +12,9 @@ cmds working
 `pip3 install -r requirements.txt`
 
 `python3 dl.py`
+
+
+
+dl heroku
+
+https://heroku.com/deploy
