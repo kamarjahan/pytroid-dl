@@ -4,6 +4,6 @@ from sample_config import Config
 
 
 video = {}
-url = Config.dl_link,
+url = "https://www.youtube.com/watch?v=Bb8bnjnEM00"
 with youtube_dl.YoutubeDL(video) as ydl:
  ydl.download([url])
