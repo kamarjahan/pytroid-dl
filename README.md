@@ -9,6 +9,6 @@ cmds working
 
 `cd pytroid-dl`
 
-`pip3 install youtube_dl`
+`pip3 install requirements.txt`
 
 `bash dl.py`
