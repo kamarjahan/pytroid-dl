@@ -1,1 +1,6 @@
 youtube_dl
+pyrogram
+telethon
+telegraph
+pytgcalls
+tgcrypto
