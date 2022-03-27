@@ -12,7 +12,7 @@
     "repository": "https://github.com/kamarjahan/TELEGRAPH-MAKER",
     "success_url": "GITHUB.COM/DEVOURDEVILS",
     "env": {
-        "yt link": {
+        "dl_link": {
             "description": "your videio link",
             "value": ""
 
